@@ -3,4 +3,4 @@
 Eric Miguel
 Matricula: 2402345
 
-<!-- git revert -> script2 -->
+Reposítorio para testes de comando git
